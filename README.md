@@ -4,7 +4,7 @@ This Script let's you control Pulseaudio sinks and input streams.
 
 Feel free to Fork and Pull-Request your enhancements to this file!
 
-
+Hint: This Script does *not* work right out of the box. you need to change your tuple lines to your need to make this work.
 
 ---
 the script is ran by `launch_control(tuple_list)`
